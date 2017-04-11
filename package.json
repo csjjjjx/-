@@ -1,0 +1,37 @@
+{
+  "name": "dingtalkrobot",
+  "version": "1.0.0",
+  "description": "钉钉机器人消息",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ",
+    "cover": "node --harmony ./node_modules/.bin/istanbul cover _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justjoker/DingTalkRobot.git"
+  },
+  "keywords": [
+    "dingtalk",
+    "dingtalkrobot"
+  ],
+  "author": "joker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justjoker/DingTalkRobot/issues"
+  },
+  "homepage": "https://github.com/justjoker/DingTalkRobot#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.16.1",
+    "eslint-config-sm": "^1.0.2",
+    "istanbul": "^0.4.5"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}

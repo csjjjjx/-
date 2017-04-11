@@ -1,3 +1,4 @@
+
 const dingRobot = require('dingtalkrobot');
 cosnt token ='*****';
 const msgType = 'text';

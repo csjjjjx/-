@@ -1,0 +1,23 @@
+{
+  "name": "dingtalk-robot",
+  "version": "1.0.3",
+  "description": "Dingtalk user-defined robot api for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fineen/dingtalk-robot.git"
+  },
+  "keywords": [
+    "dingtalk",
+    "robot"
+  ],
+  "author": "fineen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fineen/dingtalk-robot/issues"
+  },
+  "homepage": "https://github.com/fineen/dingtalk-robot"
+}
